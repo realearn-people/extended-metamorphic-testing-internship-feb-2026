@@ -1,0 +1,7 @@
+model,dataset,class,temperature,precision,recall,f1_score,accuracy
+Deepseek-v2:16b,Sentiment_taxonomy,Negative,temperature_0,0.75,1.0,0.8571,0.86
+Deepseek-v2:16b,Sentiment_taxonomy,Negative,temperature_1,0.75,1.0,0.8571,0.86
+Deepseek-v2:16b,Sentiment_taxonomy,Neutral,temperature_0,0.9333,0.7,0.8,0.86
+Deepseek-v2:16b,Sentiment_taxonomy,Neutral,temperature_1,0.9333,0.7,0.8,0.86
+Deepseek-v2:16b,Sentiment_taxonomy,Positive,temperature_0,1.0,0.9167,0.9565,0.86
+Deepseek-v2:16b,Sentiment_taxonomy,Positive,temperature_1,1.0,0.9167,0.9565,0.86

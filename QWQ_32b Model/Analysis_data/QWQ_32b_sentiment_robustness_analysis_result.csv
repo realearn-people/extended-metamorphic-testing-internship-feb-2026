@@ -1,0 +1,7 @@
+model,dataset,class,temperature,precision,recall,f1_score,accuracy
+QWQ:32b,Sentiment_robustness,Negative,temperature_0,0.7826,1.0,0.878,0.9
+QWQ:32b,Sentiment_robustness,Negative,temperature_1,0.7826,1.0,0.878,0.9
+QWQ:32b,Sentiment_robustness,Neutral,temperature_0,1.0,0.75,0.8571,0.9
+QWQ:32b,Sentiment_robustness,Neutral,temperature_1,1.0,0.75,0.8571,0.9
+QWQ:32b,Sentiment_robustness,Positive,temperature_0,1.0,1.0,1.0,0.9
+QWQ:32b,Sentiment_robustness,Positive,temperature_1,1.0,1.0,1.0,0.9

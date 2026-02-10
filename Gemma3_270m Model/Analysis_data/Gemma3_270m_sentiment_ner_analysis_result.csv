@@ -1,0 +1,7 @@
+model,dataset,class,temperature,precision,recall,f1_score,accuracy
+Gemma3:270m,Sentiment_ner,Negative,temperature_0,0.36,1.0,0.5294,0.36
+Gemma3:270m,Sentiment_ner,Negative,temperature_1,0.36,1.0,0.5294,0.36
+Gemma3:270m,Sentiment_ner,Neutral,temperature_0,0.0,0.0,0.0,0.36
+Gemma3:270m,Sentiment_ner,Neutral,temperature_1,0.0,0.0,0.0,0.36
+Gemma3:270m,Sentiment_ner,Positive,temperature_0,0.0,0.0,0.0,0.36
+Gemma3:270m,Sentiment_ner,Positive,temperature_1,0.0,0.0,0.0,0.36

@@ -1,0 +1,7 @@
+model,dataset,class,temperature,precision,recall,f1_score,accuracy
+Deepseek-v2:16b,Sentiment_negation,Negative,temperature_0,0.6429,1.0,0.7826,0.76
+Deepseek-v2:16b,Sentiment_negation,Negative,temperature_1,0.6429,1.0,0.7826,0.76
+Deepseek-v2:16b,Sentiment_negation,Neutral,temperature_0,0.9,0.45,0.6,0.76
+Deepseek-v2:16b,Sentiment_negation,Neutral,temperature_1,0.9,0.45,0.6,0.76
+Deepseek-v2:16b,Sentiment_negation,Positive,temperature_0,0.9167,0.9167,0.9167,0.76
+Deepseek-v2:16b,Sentiment_negation,Positive,temperature_1,0.9167,0.9167,0.9167,0.76
